@@ -1,3 +1,3 @@
-module github.com/ujjwal-soni-mindtickle/go_timepass2
+module github.com/ujjwal-soni-mindtickle/hellomod
 
 go 1.18
