@@ -1,4 +1,4 @@
-package timepass
+package hellomod
 
 import "fmt"
 
